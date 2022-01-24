@@ -15,4 +15,6 @@ public class TestCase003 {
     // when we merge and conflict will happen
 
     // This is my final result
+
+    // This is the changes from Local IntelliJ
 }
