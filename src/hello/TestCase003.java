@@ -6,4 +6,6 @@ public class TestCase003 {
 
     // that exists in master
 
+    // now git will not know
+
 }
