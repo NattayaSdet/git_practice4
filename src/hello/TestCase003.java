@@ -8,4 +8,6 @@ public class TestCase003 {
 
     // now git will not know
 
+    // Cat
+
 }
