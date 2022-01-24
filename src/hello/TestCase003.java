@@ -2,6 +2,10 @@ package hello;
 
 public class TestCase003 {
 
+    // step 1 awesome code
+
+    // code finished in feature branch
+
     // This is unknown changes
 
     // that exists in master
@@ -10,4 +14,5 @@ public class TestCase003 {
 
     // when we merge and conflict will happen
 
+    // This is my final result
 }
